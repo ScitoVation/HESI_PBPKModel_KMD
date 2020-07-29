@@ -1,0 +1,13 @@
+name: plethem-kmd_case_study
+title: plethem-kmd_case_study
+username:
+account: scitovation
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2554633
+bundleId: 3423315
+url: https://scitovation.shinyapps.io/plethem-kmd_case_study/
+when: 1595453788.40066
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Database/Params.csv|Database/physioparams.csv|Model/KMD_model_event.dll|Model/KMD_model_event.o|Parameters/exposureFuncs.R|Parameters/KMD_model_inits.R|Parameters/Rat.R

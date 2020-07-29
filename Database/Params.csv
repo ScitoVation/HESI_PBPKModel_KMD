@@ -1,0 +1,30 @@
+Name,Units,Variable,InUI,InModel
+Body Weight,kg,bw,1,1
+Cardiac output,L/h/kgBW^0.75,qcc,1,0
+Cardiac Output,L/h,qc,0,1
+Hematocrit Factor,None,hct,1,1
+Fractional Blood Volume,None ,vbldc,1,0
+Fractional Liver Volume,None,vlivc,1,0
+Fractional Rapidly Perfused Tissue Volume,None,vrpfc,1,0
+Fractional Slowly Perfused Tissue Volume,None,vspfc,1,0
+Plasma Volume,L,vpls,0,1
+Liver Volume,L,vliv,0,1
+Rapidly Perfused Tissue Volume,L,vrpf,0,1
+Slowly Perfused Tissue Volume,L,vspf,0,1
+Fractional Liver Blood Flow,None,qlivc,1,0
+Fractional Rapidly Perfused Tissue Blood Flow,None,qrpfc,1,0
+Fractional Slowly Perfused Tissue Blood Flow,None,qspfc,1,0
+Liver Blood Flow,L/h,qliv,0,1
+Rapidly Perfused Tissue Blood Flow,L/h,qrpf,0,1
+Slowly Perfused Tissue Blood Flow,L/h,qspf,0,1
+Liver Partition Coefficient,None,pliv,1,1
+Rapidly Perfused Tissue Partition Coefficient,None,prpf,1,1
+Slowly Perfused Tissue Partition Coefficient,None,pspf,1,1
+Maximum Metabolic Rate,umol/h,vmax,1,1
+Michaelis Menten Constant for Metabolism,uM,km,1,1
+Urinary Clearance Rate Constant for Metabolite,/h,uclmet,1,1
+Molecular Weight,g/mol,MW,1,1
+Urine Volume Production Rate,L/kg BW/Day,vurinec,1,1
+IV Infusion,mg/h,ivdose,1,1
+Duration of IV Infusion per Day,h,ivlen,1,0
+Organism,None,org,1,0
